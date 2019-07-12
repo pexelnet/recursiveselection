@@ -1,0 +1,8 @@
+schematicName: RecursiveSelection
+version: ${project.version}
+main: eu.matejkormuth.WorldProcessor
+
+commands:
+  rs:
+    schematicName: rs
+    usage: /rs <key> [value]
